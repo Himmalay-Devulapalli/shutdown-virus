@@ -9,8 +9,8 @@ In startup_virus.py we are creating a .bat file in startup folder and writing a 
 Batch file is a simple file containing system commands that are executed by system.batch files have .bat extension. They only work on windows os.
 
 Requried packages :
-                        win32api -> pip install pywin32
-                        cx_freeze -> pip install cx-Freeze
+                        win32api -> pip install pywin32/
+                        cx_freeze -> pip install cx-Freeze/
 
 After creating the file and writing the command to it using python  do not run the python code.
 
