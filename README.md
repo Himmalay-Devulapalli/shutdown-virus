@@ -17,6 +17,8 @@ Make sure both the python files are in same directory or the file locations are 
 
 ![alt text](https://github.com/Himmalay-Devulapalli/shutdown-virus/blob/main/output/dir.png)
 
+![alt text](https://github.com/Himmalay-Devulapalli/shutdown-virus/blob/main/output/virus_file.png)
+
 open terminal where setup.py file is located and run the following command
                    python setup.py build
                    
