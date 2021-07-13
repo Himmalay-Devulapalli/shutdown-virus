@@ -14,7 +14,9 @@ In setup.py file we are converting the startup_virus.py to an exe file.but why a
 In order to run this python code where python is not installed, exe file comes into the picture.
 
 Make sure both the python files are in same directory or the file locations are properly configured if not in same location.
+
 ![alt text](https://github.com/Himmalay-Devulapalli/shutdown-virus/blob/main/output/dir.png)
+
 open terminal where setup.py file is located and run the following command
                    python setup.py build
                    
@@ -27,10 +29,12 @@ In the startup folder you can see the .bat file that will  shutdown the computer
 
 As we planted the file in startup folder, everytime the computer starts, files in startup folder will be executed and computer will shutdown when the .bat file is executed.
 
-# Rmoving the virus 
+# Removing the virus 
 In case you need to remove the virus from computer start your computer in safe mode where the files in startup folder will not be executed.
 Remove the  .bat file from startup folder.
 
 If you are using a good anti-virus it will automatically detect the virus and delets the exe file 
+
 ![alt text](https://github.com/Himmalay-Devulapalli/shutdown-virus/blob/main/output/antivirus.png)
+
 As soon as i exeuted the exe file antivirus deleted the exe file with this waring.
