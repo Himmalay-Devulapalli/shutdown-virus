@@ -39,4 +39,4 @@ If you are using a good anti-virus it will automatically detect the virus and de
 
 ![alt text](https://github.com/Himmalay-Devulapalli/shutdown-virus/blob/main/output/antivirus.png)
 
-As soon as i exeuted the exe file antivirus deleted the exe file with this waring.
+As soon as i exeuted the exe file antivirus deleted the exe file with this warning.
