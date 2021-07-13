@@ -17,13 +17,13 @@ Make sure both the python files are in same directory or the file locations are 
 
 ![alt text](https://github.com/Himmalay-Devulapalli/shutdown-virus/blob/main/output/dir.png)
 
-![alt text](https://github.com/Himmalay-Devulapalli/shutdown-virus/blob/main/output/virus_file.png)
-
 open terminal where setup.py file is located and run the following command
                    python setup.py build
                    
 After the process successfully ends,you can see a new folder named build is created in the same dirctory.Explore the sub-directory and you can find the exe file or our 
 python code.If you run the exe file it is just same as running the shutdown_virus.py file.
+
+![alt text](https://github.com/Himmalay-Devulapalli/shutdown-virus/blob/main/output/virus_file.png)
 
 Run the exe file and open startup folder by using win+r and type shell:startup.
 
