@@ -1,4 +1,4 @@
-# shutdown-virus
+# shutdown-virus [ Trojan ]
 This is a shutdown virus which only works on windows.
 
 First we need to understand how this virus works. 
